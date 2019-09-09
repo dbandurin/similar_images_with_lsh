@@ -1,0 +1,8 @@
+# Python 3.7
+numpy==1.17.2
+torch==1.2.0
+fastai==1.0.57
+click=7.0
+opencv-python==4.1.1.26
+imutils==0.5.3
+lshash3==0.0.8
